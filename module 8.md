@@ -310,11 +310,6 @@ Output:
 ![image](https://github.com/user-attachments/assets/4bae1a73-c122-47ea-a3b2-e6887d990718)
 
 
-
-
-
-
-
 Result:
 
 Thus, the program is verified successfully
