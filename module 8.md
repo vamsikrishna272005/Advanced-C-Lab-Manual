@@ -247,8 +247,6 @@ printf("\n");
 return 0;
 }
 
-
-
 ```
 Output:
 
@@ -256,13 +254,7 @@ Output:
 ![image](https://github.com/user-attachments/assets/2a1e29c2-674c-4db6-98ff-ec75254ec16b)
 
 
-
-
-
-
-
 Result:
-
 Thus, the program is verified successfully
 
 EXP NO:10 C PROGRAM TO FIND A SQUARE  OF NUMBER USING FUNCTION WITHOUT ARGUMENTS WITH RETURN TYPE
@@ -301,15 +293,11 @@ void square(){
     printf("The square of %d is : %.2f",a,ans);
 }
 
-
-
 ```
 Output:
 
 
 ![image](https://github.com/user-attachments/assets/4bae1a73-c122-47ea-a3b2-e6887d990718)
 
-
 Result:
-
 Thus, the program is verified successfully
